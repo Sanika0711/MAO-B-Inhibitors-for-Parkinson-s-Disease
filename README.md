@@ -86,7 +86,7 @@ The bioactivity dataset was obtained from the ChEMBL database and processed prio
 
 If you use this repository, please cite:
 
-**Sanika Medhekar.** *Machine Learning-Guided Design and Computational Evaluation of Novel Selegiline Analogues as Potential Monoamine Oxidase-B (MAO-B) Inhibitors.* (Manuscript under review.)
+**Sanika Medhekar.** *Machine Learning-Guided Design and Computational Evaluation of Novel Selegiline Analogues as Potential Monoamine Oxidase-B (MAO-B) Inhibitors.* 
 
 
 ---
